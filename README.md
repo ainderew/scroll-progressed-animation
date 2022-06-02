@@ -6,7 +6,7 @@
 ## React custom hook (Element start and end position for scroll)
 
 - #### Usages
-  - Used with framer-motion to create scroll animation that use the scroll as it's playback mechanism
+  > Used with framer-motion to create scroll animation that use the scroll as it's playback mechanism
 - #### Requirements
 
   - [React](https://www.npmjs.com/package/react)
